@@ -1,6 +1,6 @@
 # Biblioteca
-Desafio: Sistema de Gerenciamento de Livraria 📖
-Este projeto foi desenvolvido como parte do Desafio - Sistema de Livraria da formação de Java da Rocketseat. O objetivo principal é aplicar e reforçar conceitos fundamentais de Java e Programação Orientada a Objetos (POO), como a criação de classes, o gerenciamento de objetos em listas e a interação básica com o usuário via console.
+Desafio: Sistema de Gerenciamento de Livraria 
+📖Este projeto foi desenvolvido como parte do Desafio - Sistema de Livraria da formação de Java da Rocketseat. O objetivo principal é aplicar e reforçar conceitos fundamentais de Java e Programação Orientada a Objetos (POO), como a criação de classes, o gerenciamento de objetos em listas e a interação básica com o usuário via console.
 
 ✨ Sobre o Projeto
 O sistema simula o funcionamento básico de uma biblioteca, permitindo ao usuário visualizar os livros disponíveis e realizar o empréstimo de um título. Toda a interação ocorre através do terminal, seguindo um fluxo simples e direto.
